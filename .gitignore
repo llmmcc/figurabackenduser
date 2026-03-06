@@ -1,0 +1,30 @@
+# Build artifacts
+/build/
+/out/
+*.class
+
+# Gradle
+/.gradle/
+/gradle/
+gradlew
+gradlew.bat
+gradle/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
